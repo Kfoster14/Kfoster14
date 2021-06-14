@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning how to update my profile from my local repo.
+- 🌱 I’m currently learning about React.
 <!--
 **Kfoster14/Kfoster14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
